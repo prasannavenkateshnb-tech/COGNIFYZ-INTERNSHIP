@@ -27,7 +27,7 @@ public class Task1 {
         System.out.println("Temperature in Celcius:"+result+"C");
        }
        else{
-        System.out.println("Enter tghe correct Unit c/f ");
+        System.out.println("Enter The Correct Unit c/f ");
        }
        sc.close();
 
